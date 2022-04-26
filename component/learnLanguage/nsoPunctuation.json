@@ -1,0 +1,59 @@
+{
+    "punctuation":[{
+    "stop":[{
+        "name":"Full stop",
+        "mark":".",
+        "ex":"M yí réʼ.",
+        "meaning":"I am eating yams.",
+        "desc":"The full stop (.) in Lamnso marks the end of a declarative sentence."
+    }],
+    "question":[{
+        "name":"Question mark",
+        "mark":"?",
+        "ex":"Lukoŋ kì yùn ka fó way?",
+        "breakdown":"Lukong P1 buy what from market",
+        "meaning":"What did Lukong buy at the market?",
+        "desc":"The question mark (?) in Lamnso marks the end of a interrogative sentence."
+    }],
+    "exclamation":[{
+        "name":"Exclamation mark",
+        "mark":"!",
+        "ex":"Lá à yòʼ dù!",
+        "breakdown":"NEG you NEG go",
+        "meaning":"Go!",
+        "desc":"The exclamation mark (?) is written at the end of a command, or it is placed following exclamatory words or phrases."
+    }],
+    "comma":[{
+        "name":"Comma",
+        "mark":",",
+        "ex":"Beeri ker shisi, kér jwí wùn à bvə́y si sitaár.",
+        "breakdown":"Beeri has cat has dog and with goat three",
+        "meaning":"Beeri has a cat, a dog and three goats.",
+        "desc":"The comma (,) is used to seperate clauses or parallel words within a clause as shown below."
+    }],
+    "colon":[{
+        "name":"Colon",
+        "mark":":",
+        "ex":"Wù taʼ yun vifáː ndzərèŋ, sáŋ wùn à kúne.",
+        "breakdown":"She want buy things three groundnuts rice and with beans",
+        "meaning":"She wants to but three things: groundnuts, rice and beans.",
+        "desc":"The colon (:) is used to introduce a list of similar items."
+    }],
+    "quotation":[{
+        "name":"Parentheses",
+        "mark":"()",
+        "ex":"Wù fiìnè nyám sə́ (bvə́y sibaà wùn à njiì).",
+        "breakdown":"he sell animals his goat two and with sheep",
+        "meaning":"He sold animals (two goats and a sheep).",
+        "desc":"Parentheses (brackets) are used to insert background information into a text as shown below."
+    }],
+    "capital":[{
+        "name":"Capitalisation",
+        "mark":"",
+        "ex":"Áwune yíi dù e way lán",
+        "breakdown":"they F1 go to the market today",
+        "meaning":"They will go to the market today.",
+        "desc":"Capital letters are used at the beginning of sentences, for proper nouns, and sometimes after a colon."
+    }]
+    }]
+}

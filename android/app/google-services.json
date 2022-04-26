@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "307042554750",
+    "project_id": "lall-project",
+    "storage_bucket": "lall-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307042554750:android:9507906a1a33b7f985192f",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307042554750-39osia8go253f8hgt9edsvi5h8dv7g1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWK37qsbMvDyhMZ5e_elVWFMGkYYZ73ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307042554750-39osia8go253f8hgt9edsvi5h8dv7g1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307042554750:android:271641ecb22963d785192f",
+        "android_client_info": {
+          "package_name": "com.lallproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307042554750-39osia8go253f8hgt9edsvi5h8dv7g1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWK37qsbMvDyhMZ5e_elVWFMGkYYZ73ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307042554750-39osia8go253f8hgt9edsvi5h8dv7g1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

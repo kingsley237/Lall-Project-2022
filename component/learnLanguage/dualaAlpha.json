@@ -1,0 +1,173 @@
+{
+    "alpha":[{
+    "a":[{
+        "letter":"A a",
+        "ex":"dípà",
+        "sound":"a",
+        "meaning":"to hit"
+    }],
+    "e":[{
+        "letter":"E e",
+        "ex":"mubáèdi",
+        "sound":"e",
+        "meaning":"husband"
+    }],
+    "e̠":[{
+        "letter":"e̠",
+        "ex":"ewe̠njí",
+        "sound":"e̠",
+        "meaning":"struggle"
+    }],
+    "i":[{
+        "letter":"I i",
+        "ex":"mikuta",
+        "sound":"i",
+        "meaning":"bags"
+    }],
+    "i̠":[{
+        "letter":"i̠",
+        "ex":"madí̠ba",
+        "meaning":"water",
+        "sound":"i̠"
+    }],
+    "o":[{
+        "letter":"O o",
+        "ex":"mǒnda",
+        "meaning":"farm",
+        "sound":"o"
+    }],
+    "o̠":[{
+        "letter":"o̠",
+        "ex":"njo̠u",
+        "meaning":"elephant",
+        "sound":"o̠"
+    }],
+    "u":[{
+        "letter":"U u",
+        "ex":"súè̠le̠",
+        "meaning":"to support",
+        "sound":"u"
+    }],
+    "k":[{
+        "letter":"K k",
+        "ex":"kiè̠re̠",
+        "meaning":"Yesterday",
+        "sound":"k"
+    }],
+    "g":[{
+        "letter":"G g",
+        "ex":"mongo",
+        "meaning":"parties",
+        "sound":"g"
+    }],
+    "n̊":[{
+        "letter":"n̊",
+        "ex":"go̠bin̊a",
+        "meaning":"governor",
+        "sound":"n̊"
+    }],
+    "ń":[{
+        "letter":"ń",
+        "ex":"ńó̠sè",
+        "meaning":"to drink",
+        "sound":"ń"
+    }],
+    "c":[{
+        "letter":"C c",
+        "ex":"ncé̠ti",
+        "meaning":"arrow",
+        "sound":"k"
+    }],
+    "j":[{
+        "letter":"J j",
+        "ex":"wonja",
+        "meaning":"freedom",
+        "sound":"dj"
+    }],
+    "y":[{
+        "letter":"Y y",
+        "ex":"bélè̠ye̠",
+        "meaning":"to call for someone",
+        "sound":"j"
+    }],
+    "t":[{
+        "letter":"T t",
+        "ex":"muútu",
+        "meaning":"boy",
+        "sound":"t"
+    }],
+    "d":[{
+        "letter":"D d",
+        "ex":"̊diísò̠",
+        "meaning":"eye",
+        "sound":"d"
+    }],
+    "markd":[{
+        "letter":"ˈd",
+        "ex":"diongo",
+        "meaning":"gone",
+        "sound":"d"
+    }],
+    "n":[{
+        "letter":"N n",
+        "ex":"bó̠ngo̠",
+        "meaning":"fruit",
+        "sound":"n"
+    }],
+    "r":[{
+        "letter":"R r",
+        "ex":"tápretà",
+        "meaning":"translator",
+        "sound":"r"
+    }],
+    "s":[{
+        "letter":"S s",
+        "ex":"bé̠sé̠",
+        "meaning":"everyone",
+        "sound":"s"
+    }],
+    "l":[{
+        "letter":"L l",
+        "ex":"mǔlà",
+        "meaning":"palm oil",
+        "sound":"l"
+    }],
+    "f":[{
+        "letter":"F f",
+        "ex":"ná fé̠le̠t",
+        "meaning":"exactly",
+        "sound":"f"
+    }],
+    "p":[{
+        "letter":"P p",
+        "ex":"pe̠pe̠",
+        "meaning":"signal",
+        "sound":"f"
+    }],
+    "b":[{
+        "letter":"B b",
+        "ex":"belḗdi",
+        "meaning":"instruction",
+        "sound":"b"
+    }],
+    "markb":[{
+        "letter":"ˈB",
+        "ex":"bulú",
+        "meaning":"night",
+        "sound":"b"
+    }],
+    "m":[{
+        "letter":"M m",
+        "ex":"mínà",
+        "meaning":"names",
+        "sound":"m"
+    }],
+    "w":[{
+        "letter":"W w",
+        "ex":"mwěnge",
+        "meaning":"sing",
+        "sound":"w"
+    }]
+    }]
+}
+    

@@ -1,0 +1,60 @@
+{
+    "punctuation":[{
+    "stop":[{
+        "name":"Full stop",
+        "mark":".",
+        "ex":"Móonə á tə́ noŋnə̂ á əkwunə́",
+        "meaning":"the baby is lying on the bed",
+        "breakdown":"baby 3s PROG lie on bed",
+        "desc":"The full stop (.) in Awing marks the end of a declarative sentence."
+    }],
+    "question":[{
+        "name":"Question mark",
+        "mark":"?",
+        "ex":"A ghɛlə̂ lə́ ahə̂?",
+        "breakdown":"3s do COMP what?",
+        "meaning":"What is he doing?",
+        "desc":"The question mark (?) marks the end of a interrogative sentence."
+    }],
+    "exclamation":[{
+        "name":"Exclamation mark",
+        "mark":"!",
+        "ex":"Kɔ pɨ ńkə́ sóŋə!",
+        "breakdown":"NEG again again say.",
+        "meaning":"Don't mention it again!",
+        "desc":"The exclamation mark (?) is written at the end of a command, or it is placed following exclamatory words or phrases."
+    }],
+    "comma":[{
+        "name":"Comma",
+        "mark":",",
+        "ex":"BPó mǎ ńgyǐəə lə́ ə́fɛ̂, pó ghɛnə̂ lə́",
+        "breakdown":"3p NEG come to here, 3p go to stream",
+        "meaning":"They are not coming here, they are going to the stream",
+        "desc":"The comma (,) is used to seperate clauses or parallel words within a clause as shown below."
+    }],
+    "colon":[{
+        "name":"Quotation marks",
+        "mark":" ... ",
+        "ex":"Máma a tə́ ḿbɪ́tə ńgə́, \"Gho ghɛnə̂ lə́ ə́fó?\"",
+        "breakdown":"grandmother 3s PROG ask COMP, 2s go to where",
+        "meaning":"Mama (grandmother) is asking, \"Where are you going?\"",
+        "desc":"They occur at the beginning and the end of direct speech"
+    }],
+    "quotation":[{
+        "name":"Parentheses",
+        "mark":"()",
+        "ex":"Wù fiìnè nyám sə́ (bvə́y sibaà wùn à njiì).",
+        "breakdown":"he sell animals his goat two and with sheep",
+        "meaning":"He sold animals (two goats and a sheep).",
+        "desc":"Parentheses (brackets) are used to insert background information into a text as shown below."
+    }],
+    "capital":[{
+        "name":"Capitalisation",
+        "mark":"",
+        "ex":"Pó zɨ́ nóolə.",
+        "breakdown":"3p see snake",
+        "meaning":"They have seen a snake.",
+        "desc":"Capital letters are used at the beginning of sentences, for proper nouns, and sometimes after a colon."
+    }]
+    }]
+}

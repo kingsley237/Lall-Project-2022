@@ -1,0 +1,271 @@
+{
+    "alpha":[{
+    "p":[{
+        "letter":"P p",
+        "ex":"bap  |   pí",
+        "sound":"p",
+        "meaning":"Meat  |  Lose",
+        "stat":"Phoneme consonant"
+    }],
+    "b":[{
+        "letter":"B b",
+        "ex":"bəbɛ́  |   bəbɐ̃̀ŋ",
+        "sound":"b",
+        "meaning":"Volcano  |  Otter",
+        "stat":"Phoneme consonant"
+    }],
+    "bh":[{
+        "letter":"Bh",
+        "ex":"pə́bhə́",
+        "sound":"bβ",
+        "meaning":"Immerged in work",
+        "stat":"Phoneme consonant"
+    }],
+    "t":[{
+        "letter":"T t",
+        "ex":"tsə́",
+        "sound":"t",
+        "meaning":"Things",
+        "stat":"Phoneme consonant"
+    }],
+    "th":[{
+        "letter":"Th",
+        "ex":"tθə́",
+        "sound":"tθ",
+        "meaning":"Head",
+        "stat":"Phoneme consonant"
+    }],
+    "d":[{
+        "letter":"D d",
+        "ex":"dzə́",
+        "sound":"d",
+        "meaning":"Fabric",
+        "stat":"Phoneme consonant"
+    }],
+    "dh":[{
+        "letter":"Dh",
+        "ex":"dʂə́",
+        "sound":"dʂ",
+        "meaning":"Male",
+        "stat":"Phoneme consonant"
+    }],
+    "f":[{
+        "letter":"F f",
+        "ex":"fɐ́",
+        "sound":"f",
+        "meaning":"Blind",
+        "stat":"Phoneme consonant"
+    }],
+    "v":[{
+        "letter":"V v",
+        "ex":"və̀  |   ví",
+        "sound":"v",
+        "meaning":"Write  |  Activate",
+        "stat":"Phoneme consonant"
+    }],
+    "pf":[{
+        "letter":"Pf",
+        "ex":"pfiə̀  |   pfú",
+        "sound":"pf",
+        "meaning":"Pour  |  Die",
+        "stat":"Phoneme consonant"
+    }],
+    "ʤ":[{
+        "letter":"ʤ",
+        "ex":"ʤiə́",
+        "sound":"ʤ",
+        "meaning":"Knowledge",
+        "stat":"Phoneme consonant"
+    }],
+    "ɕ":[{
+        "letter":"ɕ",
+        "ex":"ɕìm",
+        "sound":"ɕ",
+        "meaning":"Force entry",
+        "stat":"Phoneme consonant"
+    }],
+    "x":[{
+        "letter":"X x",
+        "ex":"xùm",
+        "sound":"x",
+        "meaning":"Dig",
+        "stat":"Phoneme consonant"
+    }],
+    "ʃ":[{
+        "letter":"ʃ",
+        "ex":"ʃiə",
+        "sound":"ʃ",
+        "meaning":"Water",
+        "stat":"Phoneme consonant"
+    }],
+    "ɲ":[{
+        "letter":"ɲ",
+        "ex":"ɲà",
+        "sound":"ɲ",
+        "meaning":"Show",
+        "stat":"Phoneme consonant"
+    }],
+    "n":[{
+        "letter":"N n",
+        "ex":"nɛ́",
+        "sound":"n",
+        "meaning":"Cook",
+        "stat":"Phoneme consonant"
+    }],
+    "s":[{
+        "letter":"S s",
+        "ex":"sɔ́k  |   sjə",
+        "sound":"s",
+        "meaning":"Pepper  |  Pinch",
+        "stat":"Phoneme consonant"
+    }],
+    "z":[{
+        "letter":"Z z",
+        "ex":"zə̀",
+        "sound":"z",
+        "meaning":"Bitter",
+        "stat":"Phoneme consonant"
+    }],
+    "ts":[{
+        "letter":"Ts",
+        "ex":"tsɐ̀",
+        "sound":"ts",
+        "meaning":"Be heavy",
+        "stat":"Phoneme consonant"
+    }],
+    "dz":[{
+        "letter":"Dz",
+        "ex":"dzo",
+        "sound":"dz",
+        "meaning":"Destroy",
+        "stat":"Phoneme consonant"
+    }],
+    "ʒ":[{
+        "letter":"ʒ",
+        "ex":"ʒúʔ",
+        "sound":"ʒ",
+        "meaning":"Cook on the fire",
+        "stat":"Phoneme consonant"
+    }],
+    "ʧ":[{
+        "letter":"ʧ",
+        "ex":"ʧuè  |   ʧoʔ",
+        "sound":"ʧ",
+        "meaning":"Cry  |  Haircut",
+        "stat":"Phoneme consonant"
+    }],
+    "j":[{
+        "letter":"J j",
+        "ex":"jɔ́",
+        "sound":"j",
+        "meaning":"See",
+        "stat":"Phoneme consonant"
+    }],
+    "k":[{
+        "letter":"K k",
+        "ex":"kə́ká  |   kjə́ʔ",
+        "sound":"k",
+        "meaning":"Take a walk  |  Detach",
+        "stat":"Phoneme consonant"
+    }],
+    "g":[{
+        "letter":"G g",
+        "ex":"gwə̀  |   gɔ́",
+        "sound":"g",
+        "meaning":"Oath  |  Hopefully",
+        "stat":"Phoneme consonant"
+    }],
+    "h":[{
+        "letter":"H h",
+        "ex":"hò  |   há",
+        "sound":"h",
+        "meaning":"Find  |  Give",
+        "stat":"Phoneme consonant"
+    }],
+    "m":[{
+        "letter":"M m",
+        "ex":"mɛ́  |   màʔ",
+        "sound":"m",
+        "meaning":"Shake  |  Throw",
+        "stat":"Phoneme consonant"
+    }],
+    "l":[{
+        "letter":"L l",
+        "ex":"lɔ̀  |   lɐ̀",
+        "sound":"l",
+        "meaning":"Cry  |  Take",
+        "stat":"Phoneme consonant"
+    }],
+    "i":[{
+        "letter":"I i",
+        "ex":"di  |   pí",
+        "sound":"i",
+        "meaning":"Sleep  |  Lose",
+        "stat":"Phoneme Vowel"
+    }],
+    "u":[{
+        "letter":"U u",
+        "ex":"guà",
+        "sound":"u",
+        "meaning":"Sermon",
+        "stat":"Phoneme vowel"
+    }],
+    "ʉ":[{
+        "letter":"ʉ",
+        "ex":"sʉ́",
+        "sound":"ʉ",
+        "meaning":"Castrate",
+        "stat":"Phoneme vowel"
+    }],
+    "e":[{
+        "letter":"E e",
+        "ex":"pě  |   ʤɛ",
+        "sound":"e",
+        "meaning":"Farm  |  Being light",
+        "stat":"Phoneme vowel"
+    }],
+    "o":[{
+        "letter":"O o",
+        "ex":"tò  |   ló",
+        "sound":"o",
+        "meaning":"Under  |  Ask",
+        "stat":"Phoneme vowel"
+    }],
+    "ɛ":[{
+        "letter":"ɛ",
+        "ex":"tɛ̀   |   fɛ́",
+        "sound":"ɛ",
+        "meaning":"Be flexible  |  Turn",
+        "stat":"Phoneme vowel"
+    }],
+    "ɔ":[{
+        "letter":"ɔ",
+        "ex":"tɔ  |   lɔ́",
+        "sound":"ɔ",
+        "meaning":"Insect  |  Light skinned",
+        "stat":"Phoneme vowel"
+    }],
+    "ə":[{
+        "letter":"ə",
+        "ex":"tə  |   fə̀",
+        "sound":"ə",
+        "meaning":"Negation  |  Come from",
+        "stat":"Phoneme vowel"
+    }],
+    "ɐ":[{
+        "letter":"ɐ",
+        "ex":"tɐ  |   fɐ̀",
+        "sound":"ɐ",
+        "meaning":"Until  |  Leaf",
+        "stat":"Phoneme vowel"
+    }],
+    "a":[{
+        "letter":"A a",
+        "ex":"tá   |   fà",
+        "sound":"a",
+        "meaning":"Father  |  Wind",
+        "stat":"Phoneme vowel"
+    }]
+    }]
+}
+    

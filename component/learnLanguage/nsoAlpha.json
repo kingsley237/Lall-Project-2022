@@ -1,0 +1,237 @@
+{
+    "alpha":[{
+    "a":[{
+        "letter":"A a",
+        "ex":"bá",
+        "sound":"ɜ",
+        "meaning":"to weave"
+    }],
+    "aa":[{
+        "letter":"aa",
+        "ex":"baá",
+        "meaning":"to be mad"
+    }],
+    "b":[{
+        "letter":"B b",
+        "ex":"bíy",
+        "meaning":"cola nut"
+    }],
+    "bv":[{
+        "letter":"bv",
+        "ex":"bvɘ́y",
+        "meaning":"goat"
+    }],
+    "c":[{
+        "letter":"C c",
+        "ex":"kicí",
+        "meaning":"tree",
+        "sound":"ʧ"
+    }],
+    "d":[{
+        "letter":"D d",
+        "ex":"déŋ",
+        "meaning":"horse tail"
+    }],
+    "dz":[{
+        "letter":"dz",
+        "ex":"dzɘ́n",
+        "meaning":"to dance"
+    }],
+    "e":[{
+        "letter":"E e",
+        "ex":"de",
+        "meaning":"witchcraft",
+        "sound":"ɛ"
+    }],
+    "ee":[{
+        "letter":"ee",
+        "ex":"bee",
+        "meaning":"to seek shelter"
+    }],
+    "ə":[{
+        "letter":"ə",
+        "ex":"nsə",
+        "meaning":"fine"
+    }],
+    "əə":[{
+        "letter":"əə",
+        "ex":"səəm",
+        "meaning":"to mark"
+    }],
+    "f":[{
+        "letter":"F f",
+        "ex":"faáy",
+        "meaning":"compound head"
+    }],
+    "g":[{
+        "letter":"G g",
+        "ex":"goʼ",
+        "meaning":"to stay"
+    }],
+    "gb":[{
+        "letter":"Gb gb",
+        "ex":"gbu",
+        "meaning":"to fall"
+    }],
+    "gh":[{
+        "letter":"Gh gh",
+        "ex":"ghií",
+        "meaning":"handle",
+        "sound":"ɣ"
+    }],
+    "ghv":[{
+        "letter":"gvh",
+        "ex":"ghvə́m",
+        "meaning":"ten",
+        "sound":"ɣv"
+    }],
+    "gv":[{
+        "letter":"gv",
+        "ex":"gvə́ʼtí",
+        "meaning":"to bend down"
+    }],
+    "h":[{
+        "letter":"h",
+        "ex":"haàn",
+        "meaning":"to doubt"
+    }],
+    "i":[{
+        "letter":"I i",
+        "ex":"bír",
+        "meaning":"bad"
+    }],
+    "ii":[{
+        "letter":"ii",
+        "ex":"bií",
+        "meaning":"hole"
+    }],
+    "j":[{
+        "letter":"J j",
+        "ex":"jum",
+        "meaning":"to chase",
+        "sound":"ʤ"
+    }],
+    "k":[{
+        "letter":"K k",
+        "ex":"kán",
+        "meaning":"monkey"
+    }],
+    "kf":[{
+        "letter":"kf",
+        "ex":"kfə̀ʼ",
+        "meaning":"weevils"
+    }],
+    "kp":[{
+        "letter":"Kp kp",
+        "ex":"kpú",
+        "meaning":"to die"
+    }],
+    "l":[{
+        "letter":"L l",
+        "ex":"láʼ",
+        "meaning":"compound"
+    }],
+    "m":[{
+        "letter":"M m",
+        "ex":"maʼ",
+        "meaning":"to throw"
+    }],
+    "mv":[{
+        "letter":"mv",
+        "ex":"mvɘn",
+        "meaning":"arrow",
+        "sound":"ɱv"
+    }],
+    "n":[{
+        "letter":"N n",
+        "ex":"nàʼ",
+        "meaning":"cow"
+    }],
+    "ŋ":[{
+        "letter":"ŋ",
+        "ex":"ŋér",
+        "meaning":"to lift"
+    }],
+    "ny":[{
+        "letter":"Ny ny",
+        "ex":"nyám",
+        "meaning":"animal",
+        "sound":"ɲ"
+    }],
+    "o":[{
+        "letter":"O o",
+        "ex":"kóm",
+        "meaning":"to scrape",
+        "sound":"ɔ"
+    }],
+    "oo":[{
+        "letter":"oo",
+        "ex":"koóm",
+        "meaning":"to bear fruit"
+    }],
+    "p":[{
+        "letter":"p",
+        "ex":"pámpám",
+        "meaning":"tin can"
+    }],
+    "r":[{
+        "letter":"r",
+        "ex":"ruʼ",
+        "meaning":"raffia bush"
+    }],
+    "s":[{
+        "letter":"s",
+        "ex":"su",
+        "meaning":"to wash"
+    }],
+    "sh":[{
+        "letter":"sh",
+        "ex":"shuu",
+        "meaning":"mouth",
+        "sound":"ʃ"
+    }],
+    "t":[{
+        "letter":"t",
+        "ex":"tán",
+        "meaning":"hat"
+    }],
+    "ts":[{
+        "letter":"ts",
+        "ex":"tsə́y",
+        "meaning":"to hit"
+    }],
+    "u":[{
+        "letter":"u",
+        "ex":"kúy",
+        "meaning":"to grow"
+    }],
+    "uu":[{
+        "letter":"uu",
+        "ex":"kuuy",
+        "meaning":"to funnel"
+    }],
+    "v":[{
+        "letter":"v",
+        "ex":"və́y",
+        "meaning":"fire"
+    }],
+    "w":[{
+        "letter":"w",
+        "ex":"wán",
+        "meaning":"child"
+    }],
+    "y":[{
+        "letter":"y",
+        "ex":"yí",
+        "meaning":"to eat",
+        "sound":"j"
+    }],
+    "mark":[{
+        "letter":"ʼ",
+        "ex":"túʼ",
+        "meaning":"potatoes",
+        "sound":"ʔ"
+    }]
+    }]
+}
+    

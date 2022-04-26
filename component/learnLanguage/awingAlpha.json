@@ -1,0 +1,267 @@
+{
+    "alpha":[{
+    "p":[{
+        "letter":"P p",
+        "ex":"pímə",
+        "sound":"p | b",
+        "meaning":"believe"
+    }],
+    "t":[{
+        "letter":"T t",
+        "ex":"tə́əmə",
+        "meaning":"choke",
+        "sound":"t"
+    }],
+    "k":[{
+        "letter":"T t",
+        "ex":"kaŋtə̂",
+        "meaning":"stumble",
+        "sound":"k"
+    }],
+    "l":[{
+        "letter":"L l",
+        "ex":"lóonə",
+        "meaning":"beg",
+        "sound":"l3"
+    }],
+    "ɣ":[{
+        "letter":"Gh gh",
+        "ex":"ghaŋə",
+        "meaning":"chest",
+        "sound":"ɣ"
+    }],
+    "ts":[{
+        "letter":"Ts ts",
+        "ex":"tsóʼə",
+        "meaning":"heal",
+        "sound":"ts"
+    }],
+    "ʧ":[{
+        "letter":"Ch ch",
+        "ex":"chaʼtə̂",
+        "meaning":"greet",
+        "sound":"ʧ"
+    }],
+    "f":[{
+        "letter":"F f",
+        "ex":"fɛlə",
+        "meaning":"breastbone",
+        "sound":"f"
+    }],
+    "s":[{
+        "letter":"S s",
+        "ex":"sɛdnə̂",
+        "meaning":"turn round",
+        "sound":"s"
+    }],
+    "ʃ":[{
+        "letter":"Sh sh",
+        "ex":"shǐəə",
+        "meaning":"stretch",
+        "sound":"ʃ"
+    }],
+    "z":[{
+        "letter":"Z z | Dz dz",
+        "ex":"zóʼə",
+        "meaning":"hear",
+        "sound":"z | dz"
+    }],
+    "ʒ":[{
+        "letter":"J j",
+        "ex":"jágə",
+        "meaning":"yawn",
+        "sound":"ʒ | ʤ"
+    }],
+    "m":[{
+        "letter":"M m",
+        "ex":"mǐəə",
+        "meaning":"swallow"
+    }],
+    "n":[{
+        "letter":"N n",
+        "ex":"nô",
+        "meaning":"drink"
+    }],
+    "ɲ":[{
+        "letter":"Ny ny",
+        "ex":"nyaglə̂",
+        "meaning":"tickle",
+        "sound":"ɲ"
+    }],
+    "ŋ":[{
+        "letter":"ŋ",
+        "ex":"ŋáʼə",
+        "meaning":"open",
+        "sound":"ŋ"
+    }],
+    "w":[{
+        "letter":"W w",
+        "ex":"wáakə́",
+        "meaning":"sand"
+    }],
+    "j":[{
+        "letter":"Y y",
+        "ex":"yíkə",
+        "meaning":"harden"
+    }],
+    "np":[{
+        "letter":"Mb mb",
+        "ex":"mbeʼtə",
+        "meaning":"shoulder",
+        "sound":"np"
+    }],
+    "nt":[{
+        "letter":"Nt nt",
+        "ex":"ntə́əmə",
+        "meaning":"heart"
+    }],
+    "nk":[{
+        "letter":"Nk nk",
+        "ex":"nkadtə",
+        "meaning":"back",
+        "sound":"ŋk"
+    }],
+    "nl":[{
+        "letter":"Nd nd",
+        "ex":"ndě",
+        "meaning":"neck"
+    }],
+    "nɣ":[{
+        "letter":"Ng ng",
+        "ex":"ngə́ʼə",
+        "meaning":"hardship",
+        "sound":"ŋg"
+    }],
+    "nts":[{
+        "letter":"Nts nts",
+        "ex":"ntsoolə",
+        "meaning":"war"
+    }],
+    "ntʃ":[{
+        "letter":"Nch nch",
+        "ex":"ńchíʼ",
+        "meaning":"rub",
+        "sound":"ntʃ"
+    }],
+    "nz":[{
+        "letter":"Ndz ndz",
+        "ex":"ndzǒ",
+        "meaning":"beans",
+        "sound":"nz"
+    }],
+    "nʒ":[{
+        "letter":"Nj nj",
+        "ex":"njiʼə́",
+        "meaning":"egusi"
+    }],
+    "nm":[{
+        "letter":"Mm mm",
+        "ex":"ḿmɔ",
+        "meaning":"try"
+    }],
+    "nn":[{
+        "letter":"Nn nn",
+        "ex":"ńnáŋ",
+        "meaning":"look at"
+    }],
+    "nɲ":[{
+        "letter":"Nny nny",
+        "ex":"ńnyǐ",
+        "meaning":"defecate",
+        "sound":"ɲɲ"
+    }],
+    "nŋ":[{
+        "letter":"ŋŋ",
+        "ex":"ŋ́ŋáʼ",
+        "meaning":"open"
+    }],
+    "pj":[{
+        "letter":"Py py | By by",
+        "ex":"pyáabə",
+        "meaning":"watch",
+        "sound":"pj | bj"
+    }],
+    "tj":[{
+        "letter":"Ty ty",
+        "ex":"tyáʼlə",
+        "meaning":"straddle",
+        "sound":"tj"
+    }],
+    "kj":[{
+        "letter":"Ky ky",
+        "ex":"kyagə̂",
+        "meaning":"untie",
+        "sound":"kj"
+    }],
+    "lj":[{
+        "letter":"Ly ly",
+        "ex":"lyáŋə",
+        "meaning":"hide",
+        "sound":"lj"
+    }],
+    "ɣj":[{
+        "letter":"Gy gy",
+        "ex":"ngye",
+        "meaning":"voice",
+        "sound":"ɣj"
+    }],
+    "fj":[{
+        "letter":"Fy fy",
+        "ex":"fyáalə",
+        "meaning":"chase",
+        "sound":"fj"
+    }],
+    "mj":[{
+        "letter":"My my",
+        "ex":"myaʼə̂",
+        "meaning":"throw away",
+        "sound":"mj"
+    }],
+    "i":[{
+        "letter":"I i",
+        "ex":"pímə",
+        "meaning":"accept"
+    }],
+    "ɨ":[{
+        "letter":"ɨ",
+        "ex":"kɨ́ʼə",
+        "meaning":"prevent"
+    }],
+    "u":[{
+        "letter":"U u",
+        "ex":"lúmə",
+        "meaning":"bite"
+    }],
+    "e":[{
+        "letter":"E e",
+        "ex":"neʼə̂",
+        "meaning":"limp"
+    }],
+    "ə":[{
+        "letter":"ə",
+        "ex":"əshûə",
+        "meaning":"fish"
+    }],
+    "o":[{
+        "letter":"O o",
+        "ex":"tsóʼə",
+        "meaning":"heal"
+    }],
+    "ɛ":[{
+        "letter":"ɛ",
+        "ex":"pɛ́nə",
+        "meaning":"dance"
+    }],
+    "a":[{
+        "letter":"A a",
+        "ex":"apô",
+        "meaning":"hand"
+    }],
+    "ɔ":[{
+        "letter":"ɔ",
+        "ex":"pɔ́",
+        "meaning":"children"
+    }]
+    }]
+}
+    
