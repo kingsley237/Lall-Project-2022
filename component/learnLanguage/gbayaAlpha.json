@@ -1,0 +1,185 @@
+{
+    "alpha":[{
+    "i":[{
+        "letter":"I I",
+        "sound":"I",
+        "stat":"High front unrounded vowel"
+    }],
+    "e":[{
+        "letter":"E e",
+        "stat":"Upper-mid front unrounded vowel",
+        "sound":"t"
+    }],
+    "ɛ":[{
+        "letter":"ɛ",
+        "stat":"Lower-mid front unrounded vowel",
+        "sound":"ɛ"
+    }],
+    "a":[{
+        "letter":"A a",
+        "stat":"Low central vowel",
+        "sound":"a"
+    }],
+    "ɔ":[{
+        "letter":"ɔ",
+        "stat":"Lower-id back rounded vowel",
+        "sound":"ɔ"
+    }],
+    "o":[{
+        "letter":"O o",
+        "stat":"Upper-mid back rounded vowel",
+        "sound":"o"
+    }],
+    "u":[{
+        "letter":"U u",
+        "stat":"High back rounded vowel",
+        "sound":"u"
+    }],
+    "kp":[{
+        "letter":"Kp kp",
+        "stat":"Voiceless bilabial-velar double stop",
+        "sound":"kp"
+    }],
+    "p":[{
+        "letter":"P p",
+        "stat":"Voiceless bilabial stop",
+        "sound":"p"
+    }],
+    "t":[{
+        "letter":"T t",
+        "stat":"Voiceless alveolar stop",
+        "sound":"t"
+    }],
+    "k":[{
+        "letter":"K k",
+        "stat":"Voiceless velar stop",
+        "sound":"k"
+    }],
+    "mark":[{
+        "letter":"ʔ",
+        "stat":"Glottal stop",
+        "sound":"ʔ"
+    }],
+    "gb":[{
+        "letter":"Gb gb",
+        "sound":"gb",
+        "stat":"Voiced bilabial-velar stop"
+    }],
+    "b":[{
+        "letter":"B b",
+        "sound":"b",
+        "stat":"Voiced bilabial stop"
+    }],
+    "d":[{
+        "letter":"D d",
+        "stat":"Voiced alveolar stop",
+        "sound":"d"
+    }],
+    "g":[{
+        "letter":"G g",
+        "stat":"Voiced velar stop",
+        "sound":"g"
+    }],
+    "ŋmgb":[{
+        "letter":"ŋmgb",
+        "sound":"ŋmgb",
+        "stat":"Prenasalized voiced double stop"
+    }],
+    "mb":[{
+        "letter":"Mb mb",
+        "sound":"mb",
+        "stat":"Prenasalized voiced bilabial stop"
+    }],
+    "nd":[{
+        "letter":"Nd nd",
+        "stat":"Prenasalized voiced alveolar stop",
+        "sound":"np"
+    }],
+    "ŋg":[{
+        "letter":"ŋg",
+        "sound":"ŋg",
+        "stat":"Prenasalized voiced velar stop"
+    }],
+    "ɓ":[{
+        "letter":"ɓ",
+        "stat":"Implosive voiced bilabial stop",
+        "sound":"ɓ"
+    }],
+    "ɗ":[{
+        "letter":"ɗ",
+        "sound":"ɗ",
+        "stat":"Implosive voiced alveolar stop"
+    }],
+    "ŋm":[{
+        "letter":"ŋm",
+        "stat":"Bilabial-velar double nasal",
+        "sound":"ŋm"
+    }],
+    "m":[{
+        "letter":"M m",
+        "sound":"m",
+        "stat":"Bilabial nasal"
+    }],
+    "n":[{
+        "letter":"N n",
+        "stat":"Alveolar nasal",
+        "sound":"n"
+    }],
+    "ŋ":[{
+        "letter":"ŋ",
+        "stat":"Velar nasal",
+        "sound":"ŋ"
+    }],
+    "f":[{
+        "letter":"F f",
+        "sound":"f",
+        "stat":"Voiceless labio-dental fricative"
+    }],
+    "s":[{
+        "letter":"S s",
+        "sound":"s",
+        "stat":"Voiceless alveolar sibilant"
+    }],
+    "h":[{
+        "letter":"H h",
+        "sound":"h",
+        "stat":"Voiceless glottal fricative"
+    }],
+    "v":[{
+        "letter":"V v",
+        "stat":"Voiced labio-dental fricative",
+        "sound":"v"
+    }],
+    "z":[{
+        "letter":"Z z",
+        "sound":"z",
+        "stat":"Voiced alveolar sibilant"
+    }],
+    "l":[{
+        "letter":"L l",
+        "stat":"Alveolar lateral",
+        "sound":"l"
+    }],
+    "r":[{
+        "letter":"R r",
+        "stat":"Alveolar trill",
+        "sound":"r"
+    }],
+    "w":[{
+        "letter":"W w",
+        "stat":"Bilabial semivowel",
+        "sound":"w"
+    }],
+    "y":[{
+        "letter":"Y y",
+        "stat":"Palatal semivowel",
+        "sound":"y"
+    }],
+    "vmark":[{
+        "letter":"v̂",
+        "stat":"Voiced labio-dental flap",
+        "sound":"ɣj"
+    }]
+    }]
+}
+    

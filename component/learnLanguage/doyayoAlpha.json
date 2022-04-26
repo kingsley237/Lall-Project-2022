@@ -1,0 +1,275 @@
+{
+    "alpha":[{
+    "a":[{
+        "letter":"A a",
+        "ex":"Wal",
+        "sound":"a",
+        "meaning":"Man"
+    }],
+    "a̹":[{
+        "letter":"a̹",
+        "ex":"a̹m",
+        "sound":"a̹",
+        "meaning":"Scratch"
+    }],
+    "acolon":[{
+        "letter":"A:",
+        "ex":"ga:l",
+        "sound":"a:",
+        "meaning":"Light"
+    }],
+    "a̹colon":[{
+        "letter":"a̹:",
+        "ex":"za̹:",
+        "sound":"i",
+        "meaning":"Live"
+    }],
+    "i":[{
+        "letter":"I i",
+        "ex":"il",
+        "meaning":"Gluey",
+        "sound":"i"
+    }],
+    "icolon":[{
+        "letter":"I:",
+        "ex":"ti:",
+        "meaning":"Descend",
+        "sound":"i:"
+    }],
+    "i̹":[{
+        "letter":"i̹",
+        "ex":"i̹j",
+        "meaning":"Be submerged",
+        "sound":"i̹"
+    }],
+    "i̹colon":[{
+        "letter":"i̹:",
+        "ex":"ti̹:",
+        "meaning":"Pitch black",
+        "sound":"i̹:"
+    }],
+    "e":[{
+        "letter":"E e",
+        "ex":"el",
+        "meaning":"Call",
+        "sound":"e"
+    }],
+    "ecolon":[{
+        "letter":"E:",
+        "ex":"le:l",
+        "meaning":"Starve",
+        "sound":"e:"
+    }],
+    "ɛ":[{
+        "letter":"ɛ",
+        "ex":"ɛl",
+        "meaning":"Ask",
+        "sound":"ɛ"
+    }],
+    "ɛcolon":[{
+        "letter":"ɛ:",
+        "ex":"sɛ:",
+        "meaning":"Moon",
+        "sound":"ɛ:"
+    }],
+    "ɛ̹":[{
+        "letter":"ɛ̹",
+        "ex":"sɛ̹b",
+        "meaning":"Pepper",
+        "sound":"ɛ̹"
+    }],
+    "ɛ̹colon":[{
+        "letter":"ɛ̹:",
+        "ex":"tɛ̹:",
+        "meaning":"Draw",
+        "sound":"ɛ̹:"
+    }],
+    "ɔ":[{
+        "letter":"ɔ",
+        "ex":"gɔl",
+        "meaning":"Mistreat",
+        "sound":"ɔ"
+    }],
+    "ɔcolon":[{
+        "letter":"ɔ:",
+        "ex":"gbɔ:l",
+        "meaning":"Big",
+        "sound":"ɔ:"
+    }],
+    "ɔ̹":[{
+        "letter":"ɔ̹",
+        "ex":"zɔ̹",
+        "meaning":"Pray",
+        "sound":"ɔ̹"
+    }],
+    "ɔ̹colon":[{
+        "letter":"ɔ̹:",
+        "ex":"zɔ̹:",
+        "meaning":"Box",
+        "sound":"ɔ̹:"
+    }],
+    "o":[{
+        "letter":"O o",
+        "ex":"gol",
+        "meaning":"Hill",
+        "sound":"o"
+    }],
+    "ocolon":[{
+        "letter":"O:",
+        "ex":"to:k",
+        "meaning":"Paying",
+        "sound":"o"
+    }],
+    "u":[{
+        "letter":"U u",
+        "ex":"ɓul",
+        "meaning":"Prune",
+        "sound":"u"
+    }],
+    "ucolon":[{
+        "letter":"U:",
+        "ex":"du:",
+        "meaning":"Type of bird",
+        "sound":"u:"
+    }],
+    "u̹":[{
+        "letter":"u̹",
+        "ex":"gu̹j",
+        "meaning":"Hurt oneself",
+        "sound":"u̹"
+    }],
+    "u̹colon":[{
+        "letter":"u̹:",
+        "ex":"ku̹:",
+        "meaning":"Back",
+        "sound":"u̹:"
+    }],
+    "p":[{
+        "letter":"P p",
+        "ex":"pabi",
+        "meaning":"Uncle",
+        "sound":"p"
+    }],
+    "b":[{
+        "letter":"B b",
+        "ex":"gab",
+        "meaning":"Be mean",
+        "sound":"b"
+    }],
+    "ɓ":[{
+        "letter":"ɓ",
+        "ex":"ɓa:",
+        "meaning":"Beat",
+        "sound":"ɓ"
+    }],
+    "kp":[{
+        "letter":"Kp",
+        "ex":"kpa:",
+        "meaning":"Mow",
+        "sound":"kp"
+    }],
+    "gb":[{
+        "letter":"Gb",
+        "ex":"gba:",
+        "meaning":"Deflect",
+        "sound":"gb"
+    }],
+    "t":[{
+        "letter":"T t",
+        "ex":"hot",
+        "meaning":"Bathe",
+        "sound":"t"
+    }],
+    "ɗ":[{
+        "letter":"ɗ",
+        "ex":"ɗa:",
+        "meaning":"Help",
+        "sound":"ɗ"
+    }],
+    "k":[{
+        "letter":"K k",
+        "ex":"dak",
+        "meaning":"Sift",
+        "sound":"k"
+    }],
+    "g":[{
+        "letter":"G g",
+        "ex":"zagl:",
+        "meaning":"Kneel",
+        "sound":"ɣ"
+    }],
+    "f":[{
+        "letter":"F f", 
+        "ex":"lufirjɔ",
+        "meaning":"Flea",
+        "sound":"f"
+    }],
+    "v":[{
+        "letter":"V v", 
+        "ex":"vikt",
+        "meaning":"Frown",
+        "sound":"v"
+    }],
+    "s":[{
+        "letter":"S s", 
+        "ex":"kas",
+        "meaning":"Cause to climb",
+        "sound":"s"
+    }],
+    "z":[{
+        "letter":"Z z", 
+        "ex":"lezajɔ",
+        "meaning":"Last year",
+        "sound":"z"
+    }],
+    "m":[{
+        "letter":"M m", 
+        "ex":"lɔm",
+        "meaning":"Bite",
+        "sound":"m"
+    }],
+    "n":[{
+        "letter":"N n", 
+        "ex":"lɔn",
+        "meaning":"Well twined",
+        "sound":"n"
+    }],
+    "ŋ":[{
+        "letter":"ŋ", 
+        "ex":"lɔŋ",
+        "meaning":"Stuck in the throat",
+        "sound":"ŋ"
+    }],
+    "l":[{
+        "letter":"L l", 
+        "ex":"el",
+        "meaning":"Call",
+        "sound":"l"
+    }],
+    "r":[{
+        "letter":"R r", 
+        "ex":"er",
+        "meaning":"Stand",
+        "sound":"r"
+    }],
+    "w":[{
+        "letter":"W w", 
+        "ex":"wawajɔ",
+        "meaning":"Little girl",
+        "sound":"w"
+    }],
+    "j":[{
+        "letter":"J j", 
+        "ex":"aj",
+        "meaning":"Where",
+        "sound":"j"
+    }],
+    "h":[{
+        "letter":"H h", 
+        "ex":"hɔhɔjɔ",
+        "meaning":"Big snake",
+        "sound":"h"
+    }]
+    }]
+}
+    

@@ -1,0 +1,124 @@
+{
+    "alpha":[{
+    "ŋ":[{
+        "letter":"Ng ng",
+        "sound":"ŋ",
+        "ex":"sing",
+        "meaning":"Velar nasal similar to \"ng\" in English"
+    }],
+    "ɲ":[{
+        "letter":"Ny ny",
+        "meaning":"Palatal nasal similar to \"ny\" in English or \"gn\" in French",
+        "sound":"ɲ"
+    }],
+    "ts":[{
+        "letter":"Ts ts",
+        "meaning":"A single unit of \"t\" and \"s\" at the beginning of a syllable"
+    }],
+    "dz":[{
+        "letter":"Dz dz",
+        "meaning":"A single unit of \"d\" and \"z\" at the beginning of a syllable"
+    }],    
+    "kp":[{
+        "letter":"Kp kp",
+        "meaning":"A single unit of \"k\" and \"p\" at the beginning of a syllable"
+    }],        
+    "gb":[{
+        "letter":"Gb gb",
+        "meaning":"A single unit of \"g\" and \"b\" at the beginning of a syllable"
+    }],
+    "e":[{
+        "letter":"E e",
+        "ex":"face",
+        "meaning":"Similar to vowel in English"
+    }],
+    "ɛ":[{
+        "letter":"ɛ",
+        "ex":"less",
+        "meaning":"Similar to vowel in English"
+    }],
+    "o":[{
+        "letter":"O o",
+        "ex":"loaf",
+        "meaning":"Similar to vowel in English"
+    }],
+    "ɔ":[{
+        "letter":"ɔ",
+        "ex":"loss",
+        "meaning":"Similar to vowel in English"
+    }],
+    "ə":[{
+        "letter":"ə",
+        "ex":"bus",
+        "meaning":"Similar to vowel in English"
+    }],
+    "i":[{
+        "letter":"I i",
+        "ex":"sit",
+        "meaning":"Similar to vowel in English"
+    }],
+    "u":[{
+        "letter":"U u",
+        "ex":"suit",
+        "meaning":"Similar to vowel in English"
+    }],
+    "a":[{
+        "letter":"A a",
+        "ex":"father",
+        "meaning":"Similar to vowel in English"
+    }],
+    "č":[{
+        "letter":"Ch ch",
+        "ex":"Church",
+        "meaning":"like \"ch\" in English",
+        "sound":"č"
+    }],
+    "ɦ":[{
+        "letter":"F f",
+        "ex":"behave",
+        "meaning":"Similar to \"h\" in English",
+        "sound":"ɦ"
+    }],
+    "ʕ":[{
+        "letter":"ʕ",
+        "meaning":"Voiceless \"y\""
+    }],
+    "ɨ":[{
+        "letter":"ɨ",
+        "meaning":"Similar to vowel in American just when said fast and with weak stress"
+    }],
+    "ɹ":[{
+        "letter":"ɹ",
+        "ex":"water",
+        "meaning":"Flapped \"r\" like \"t\" in American"
+    }],
+    "r̥":[{
+        "letter":"Sh sh",
+        "ex":"she",
+        "meaning":"Voiceless \"r\"",
+        "sound":"r̥"
+    }],
+    "ɱ":[{
+        "letter":"ɱ",
+        "meaning":"simultaneous \"m\" and \"ŋ\""
+    }],
+    "ʔ":[{
+        "letter":"T t",
+        "ex":"button",
+        "meaning":"Glottal stop"
+    }],
+    "sign":[{
+        "letter":"#",
+        "meaning":"end of a sentence, like period"
+    }],
+    "sign2":[{
+        "letter":"|",
+        "meaning":"sentence-internal pause, like a comma"
+    }],
+    "sign3":[{
+        "letter":"+",
+        "meaning":"potential pause between syllables at slow speed"
+    }]
+    }]
+}
+    

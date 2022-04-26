@@ -1,0 +1,115 @@
+{
+    "alpha":[{
+    "m":[{
+        "letter":"M m",
+        "sound":"m",
+        "stat":"Bilabial nasal"
+    }],
+    "n":[{
+        "letter":"N n",
+        "sound":"n",
+        "stat":"Alveolar nasal"
+    }],
+    "ny":[{
+        "letter":"Ny",
+        "sound":"ny",
+        "stat":"Palatal nasal"
+    }],
+    "ŋ":[{
+        "letter":"ŋ",
+        "sound":"ŋ",
+        "stat":"Velar nasal"
+    }],
+    "b":[{
+        "letter":"B b",
+        "sound":"b",
+        "stat":"Bilabial plosive"
+    }],
+    "td":[{
+        "letter":"t  d",
+        "sound":"t   d",
+        "stat":"Alveolar plosive"
+    }],
+    "kg":[{
+        "letter":"k  g",
+        "sound":"k  g",
+        "stat":"Velar plosive"
+    }],
+    "kp":[{
+        "letter":"Kp  Gb",
+        "sound":"kp  gb",
+        "stat":"Labiovelar plosive"
+    }],
+    "mark":[{
+        "letter":"ʼ",
+        "sound":"none",
+        "stat":"Glottal stop"
+    }],
+    "ɸ":[{
+        "letter":"ɸ  w",
+        "sound":"ɸ  w",
+        "stat":"Bilabial fricative"
+    }],
+    "s":[{
+        "letter":"S s",
+        "sound":"s",
+        "stat":"Alveolar fricative"
+    }],
+    "j":[{
+        "letter":"J j",
+        "sound":"j",
+        "stat":"Palatal fricative"
+    }],
+    "h":[{
+        "letter":"H h",
+        "sound":"h",
+        "stat":"Pharyngeal fricative"
+    }],
+    "dz":[{
+        "letter":"Dz",
+        "sound":"dz",
+        "stat":"Alveolar affricates"
+    }],
+    "mb":[{
+        "letter":"Mb",
+        "sound":"mb",
+        "stat":"Bilabial prenasalised"
+    }],
+    "ndz":[{
+        "letter":"Ndz",
+        "sound":"ndz",
+        "stat":"Alveolar prenasalised"
+    }],
+    "ŋg":[{
+        "letter":"ŋg",
+        "sound":"ŋg",
+        "stat":"Velar prenasalised"
+    }],
+    "ngb":[{
+        "letter":"Ngb",
+        "sound":"ngb",
+        "stat":"Labiovelar prenasalised"
+    }],
+    "l":[{
+        "letter":"L l",
+        "sound":"l",
+        "stat":"Alveolar lateral"
+    }],
+    "r":[{
+        "letter":"R r",
+        "sound":"r",
+        "stat":"Alveolar trill"
+    }],
+    "ɓ":[{
+        "letter":"ɓ",
+        "sound":"ɓ",
+        "stat":"Bilabial implosive"
+    }],
+    "ɗ":[{
+        "letter":"ɗ",
+        "sound":"ɗ",
+        "stat":"Alveolar implosive"
+    }]
+    }]
+}
+    

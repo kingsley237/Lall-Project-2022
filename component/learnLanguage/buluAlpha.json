@@ -1,0 +1,101 @@
+{
+    "alpha":[{
+    "a":[{
+        "letter":"A a",
+        "about":"Short vowel"
+    }],
+    "b":[{
+        "letter":"B b",
+        "about":"Single consonant"
+    }],
+    "d":[{
+        "letter":"D d",
+        "about":"Single consonant"
+    }],
+    "e":[{
+        "letter":"E e",
+        "about":"Short vowel"
+    }],    
+    "kp":[{
+        "letter":"é",
+        "about":"Toned short vowel"
+    }],        
+    "f":[{
+        "letter":"F f",
+        "about":"Single consonant"
+    }],
+    "g":[{
+        "letter":"G g",
+        "about":"Single consonant"
+    }],
+    "i":[{
+        "letter":"I i",
+        "about":"Short vowel"
+    }],
+    "j":[{
+        "letter":"J j",
+        "about":"Single consonant"
+    }],
+    "k":[{
+        "letter":"K k",
+        "about":"Single consonant"
+    }],
+    "l":[{
+        "letter":"L l",
+        "about":"Single consonant"
+    }],
+    "m":[{
+        "letter":"M m",
+        "about":"Single consonant"
+    }],
+    "n":[{
+        "letter":"N n",
+        "about":"Single consonant"
+    }],
+    "ñ":[{
+        "letter":"ñ",
+        "about":"Toned single consonant"
+    }],
+    "o":[{
+        "letter":"O o",
+        "about":"Short vowel"
+    }],
+    "ô":[{
+        "letter":"ô",
+        "about":"Toned short vowel"
+    }],
+    "p":[{
+        "letter":"P p",
+        "about":"Single consonant"
+    }],
+    "s":[{
+        "letter":"S s",
+        "about":"Single consonant"
+    }],
+    "t":[{
+        "letter":"T t",
+        "about":"Single consonant"
+    }],
+    "u":[{
+        "letter":"U u",
+        "about":"Short vowel"
+    }],
+    "v":[{
+        "letter":"V v",
+        "about":"Single consonant"
+    }],
+    "w":[{
+        "letter":"W w",
+        "about":"Single consonant"
+    }],
+    "y":[{
+        "letter":"Y y",
+        "about":"Single consonant"
+    }],
+    "z":[{
+        "letter":"Z z",
+        "about":"Single consonant"
+    }]
+    }]
+}
+    
